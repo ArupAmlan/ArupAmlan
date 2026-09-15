@@ -1,29 +1,36 @@
-<div align="center">
-
-# ARUP AMLAN PATI
-
-<sub>SOFTWARE ENGINEERING · AI/ML · INTELLIGENT SYSTEMS</sub>
+<p align="center">
+  <img src="./assets/hero.png" width="100%" alt="Arup Amlan Pati — Software Engineering, AI/ML & Intelligent Systems"/>
+</p>
 
 <br>
 
-<code>building systems that learn, reason & solve.</code>
+<div align="center">
+
+<code>software engineering</code>
+  ·   <code>artificial intelligence</code>
+  ·   <code>machine learning</code>
+  ·   <code>intelligent systems</code>
 
 </div>
 
 <br>
 
-```text
-arup@github:~$ whoami
-> CSE undergraduate exploring software, intelligence and everything between.
-```
-
 ### `// about`
 
 I build things around **machine learning, intelligent systems and software engineering**.
 
-Interested in understanding what happens beneath the abstraction — from model architectures and data pipelines to APIs and working applications.
+Interested in understanding what happens beneath the abstraction — from **model architectures and data pipelines** to **APIs and working applications**.
 
 Currently experimenting, shipping, breaking things, and rebuilding them better.
+
+```text
+arup@systems:~$ status
+
+> learning
+> building
+> experimenting
+> repeat_
+```
 
 ---
 
@@ -35,7 +42,7 @@ LANGUAGES     Python · C/C++ · SQL · JavaScript
 AI / ML      PyTorch · TensorFlow · scikit-learn
              Hugging Face · Transformers
 
-VISION       OpenCV · CNN · ViT · Grad-CAM
+VISION       OpenCV · CNN · Vision Transformers · Grad-CAM
 
 GEN AI       LangChain · RAG · Ollama · Vector Search
 
@@ -43,76 +50,132 @@ BACKEND      Flask · FastAPI · Streamlit
 
 DATA         NumPy · Pandas · Matplotlib
 
-TOOLS        Git · GitHub · VS Code · Colab
+TOOLS        Git · GitHub · VS Code · Google Colab
 ```
 
 ---
 
 ### `// selected work`
 
-**NLP Summarization Suite** <sub>Transformer-based system for configurable text and document summarization.</sub>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`Python` `Transformers` `Hugging Face` `NLP` `Streamlit`
+#### `01 / NLP Summarization Suite`
 
-↳ [explore repository](https://github.com/ArupAmlan/Text_summerizer)
+Transformer-based system for configurable text and document summarization.
 
-<br>
-
-**Adaptive Multi-Teacher Knowledge Distillation** <sub>Exploring efficient knowledge transfer across multiple teacher models and vision-language architectures.</sub>
-
-`PyTorch` `Deep Learning` `Knowledge Distillation` `VLM`
-
-↳ repository coming soon
+`Python` `Transformers` `Hugging Face` `NLP`
 
 <br>
 
-**Social Media Scam Detection** <sub>NLP-based system for detecting suspicious and fraudulent messages with an application/API layer.</sub>
+<a href="https://github.com/ArupAmlan/Text_summerizer">
+  <b>→ explore repository</b>
+</a>
 
-`Python` `NLP` `TF-IDF` `Machine Learning` `Flask`
+</td>
 
-↳ repository coming soon
+<td width="50%" valign="top">
+
+#### `02 / Multi-Teacher Distillation`
+
+Research-oriented exploration of efficient knowledge transfer using multiple teacher models and vision-language architectures.
+
+`PyTorch` `Deep Learning` `KD` `VLM`
 
 <br>
 
-**Cloud Motion Prediction** <sub>Spatiotemporal deep-learning experiments for forecasting cloud movement from sequential satellite imagery.</sub>
+<sub>repository / coming soon</sub>
 
-`Deep Learning` `ConvLSTM` `Computer Vision` `Satellite Imagery`
+</td>
+</tr>
 
-↳ repository coming soon
+<tr>
+<td width="50%" valign="top">
+
+#### `03 / Scam Detection`
+
+NLP-based system for identifying suspicious and fraudulent messages with an application/API layer.
+
+`Python` `NLP` `TF-IDF` `ML` `Flask`
+
+<br>
+
+<sub>repository / coming soon</sub>
+
+</td>
+
+<td width="50%" valign="top">
+
+#### `04 / Cloud Motion Prediction`
+
+Spatiotemporal deep-learning experiments for forecasting cloud movement from sequential satellite imagery.
+
+`ConvLSTM` `Computer Vision` `Deep Learning`
+
+<br>
+
+<sub>repository / coming soon</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### `// current process`
 
 ```text
-01  learning   →  DSA · scalable AI systems
-02  building   →  applied ML · GenAI
-03  exploring  →  agents · multimodal AI · efficient models
-04  improving  →  engineering fundamentals
+[01]  LEARN       →  DSA · AI systems · engineering fundamentals
+
+[02]  BUILD       →  applied ML · GenAI · intelligent applications
+
+[03]  EXPERIMENT  →  agents · multimodal AI · efficient models
+
+[04]  ITERATE     →  build → break → understand → rebuild
 ```
 
 ---
 
-### `// activity`
+### `// github telemetry`
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArupAmlan&show_icons=true&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e&icon_color=6e7681" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArupAmlan&layout=compact&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e" />
-
-</div>
-
----
-
-### `// connect`
-
-[github](https://github.com/ArupAmlan) · [linkedin](YOUR_LINKEDIN_URL) · [email](mailto:YOUR_EMAIL)
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=ArupAmlan&show_icons=true&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e&icon_color=6e7681&ring_color=8b949e"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArupAmlan&layout=compact&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e"
+  />
+</p>
 
 <br>
 
-<div align="center">
+<p align="center">
+  <code>─────────────────────── SYSTEM / ACTIVITY ───────────────────────</code>
+</p>
 
-<sub><code>build → break → understand → rebuild</code></sub>
+<br>
 
-</div>
+### `// connect`
+
+<p align="center">
+
+<a href="https://github.com/ArupAmlan"><code>GITHUB</code></a>
+    /     <a href="YOUR_LINKEDIN_URL"><code>LINKEDIN</code></a>
+    /     <a href="mailto:YOUR_EMAIL"><code>EMAIL</code></a>
+
+</p>
+
+<br>
+
+<p align="center">
+  <sub>
+    <code>IDEAS → MODELS → SYSTEMS → IMPACT</code>
+  </sub>
+</p>
+
+<p align="center">
+  <sub>build. break. understand. rebuild.</sub>
+</p>
