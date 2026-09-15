@@ -163,8 +163,8 @@ Spatiotemporal deep-learning experiments for forecasting cloud movement from seq
 <p align="center">
 
 <a href="https://github.com/ArupAmlan"><code>GITHUB</code></a>
-    /     <a href="YOUR_LINKEDIN_URL"><code>LINKEDIN</code></a>
-    /     <a href="mailto:YOUR_EMAIL"><code>EMAIL</code></a>
+    /     <a href="https://www.linkedin.com/in/arup-amlan-pati-2687b3344/"><code>LINKEDIN</code></a>
+    /     <a href="mailto:arup.pati676@gmail.com"><code>EMAIL</code></a>
 
 </p>
 
